@@ -1,0 +1,15 @@
+{
+  "name": "shehabulislam/visitor-feedback",
+  "autoload": {
+    "psr-4": {
+      "VSTR\\": "inc/"
+    }
+  },
+  "authors": [
+    {
+      "name": "shehabulislam",
+      "email": "rajudjp28@gmail.com"
+    }
+  ],
+  "require": {}
+}
